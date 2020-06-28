@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Calculo de Gastos</string>
+    <string name="Nombre">Nombre</string>
+    <string name="PuntoA">Punto de salida</string>
+    <string name="PuntoB">Punto de llegada</string>
+    <string name="Hora">Hora de salida</string>
+    <string name="Costo">Costo de combustible</string>
+    <string name="Distancia">Distancia en KM</string>
+    <string name="btn">Calcular</string>
+
+</resources>
